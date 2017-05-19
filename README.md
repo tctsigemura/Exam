@@ -14,4 +14,4 @@ SysPro(System Programming)フォルダに2012年度後期以降の定期試験�
 OS(Operating System)フォルダに2012年度後期以降の定期試験問題を置きます。
 
 ### オブジェクト指向プログラミング（５年後期、選択）
-OOP(Object-Oriented Programming)フォルダに2012年度以降の定期試験問題を置きます。なお、担当者交代のため2016年度が最後になります。
+OOP(Object-Oriented Programming)フォルダに2012年度以降の定期試験問題を置きます。
